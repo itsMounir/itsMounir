@@ -1,16 +1,30 @@
-## Hi there 👋
+# Mounir Al Maleh
 
-<!--
-**itsMounir/itsMounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on Python, FastAPI, PostgreSQL, REST APIs, and scalable backend systems.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and FastAPI
+- PostgreSQL and SQLAlchemy
+- REST API design
+- Backend architecture and service-layer separation
+- Multi-tenant systems and authorization
+- Database migrations with Alembic
+- Automated unit and end-to-end testing
+- Docker and cloud integrations
+
+## Featured Projects
+
+### AI-Powered Adaptive Examination Platform
+Backend architecture built with FastAPI, SQLAlchemy, PostgreSQL, Alembic, Docker Compose, and Pydantic. Includes adaptive testing, authentication, RAG workflows, and assessment features.
+
+### Walifi Pet Services Marketplace
+NestJS backend for marketplace, booking, bidding, payments, users, pets, wallet, and administration workflows using PostgreSQL, Drizzle ORM, Redis/BullMQ, and Jest testing.
+
+### Polaris Management Platform
+Python REST APIs built with Azure Functions for customers, users, bikes, SIMs, tracking devices, logs, and visibility controls.
+
+## Links
+
+- [LinkedIn](linkedin.com/in/mounir-almaleh)
+- [Email](mailto:mouniralmaleh1@gmail.com@gmail.com)

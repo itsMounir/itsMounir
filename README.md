@@ -1,14 +1,12 @@
 # Mounir Al Maleh
 
-Backend Engineer focused on Python, FastAPI, PostgreSQL, REST APIs, and scalable backend systems.
+Backend Engineer focused on scalable backend systems.
 
 I build secure backend services, multi-tenant platforms, serverless applications, and AI-powered systems. My experience includes API design, database architecture, authorization, migrations, cloud integrations, and automated testing.
 
 ## Technical Focus
 
-- Python and FastAPI
-- REST API development
-- PostgreSQL, SQLAlchemy, and Alembic
+- Backend Development 
 - Service-layer and clean architecture
 - Multi-tenant systems and authorization
 - Database migrations and data workflows

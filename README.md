@@ -29,12 +29,6 @@ I build secure, scalable backend services, multi-tenant platforms, serverless ap
 * **AI Provider Abstraction:** Integrated dynamic multi-provider LLM orchestration supporting OpenAI, Google Gemini, and Groq.
 * **Tech Stack:** `Python`, `FastAPI`, `PostgreSQL`, `SQLAlchemy`, `LangGraph`, `Weaviate`, `Docker`
 
-### 2. Walifi — Pet Services Marketplace
-*Co-architected a robust backend for a multi-domain pet services marketplace (UAE client).*
-* **Core Domains:** Engineered backend modules spanning booking, bidding, user wallets, and admin management.
-* **Reliability & Security:** Implemented strict transactional locks, atomic database operations, asynchronous job processing via Redis/BullMQ, and automated testing frameworks.
-* **Tech Stack:** `NestJS`, `PostgreSQL`, `Drizzle ORM`, `Redis/BullMQ`, `TypeScript`
-
 ### 3. Almowafraty — Merchant Operations Platform
 *Developed backend store-operations infrastructure for the Egyptian market supporting over 1,000 active daily vendors.*
 * **API Development:** Built high-throughput store-operations APIs and integrated real-time push notifications via Firebase.
